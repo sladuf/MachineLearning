@@ -1,12 +1,12 @@
 # Data File Description
 
 
-
-
 ### file source
 <http://yann.lecun.com/exdb/mnist/>
 
 These files are not in any standard image format. You have to write your own (very simple) program to read them.
+
+
 
 
 
